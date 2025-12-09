@@ -48,11 +48,6 @@ I am an aspiring **AI & Machine Learning Engineer** with strong expertise in **C
 - Combined bilateral-branch detection model with YOLO + DeepSort at ~17 FPS on edge hardware.  
 **Metrics:** mAP50 ~81% (imbalanced dataset), MOTA ~81%, IDF1 ~79%.
 
-> More project READMEs / demos: *(link each repo below when you create them)*  
-- `agv-vision-stack` — real-time lane & obstacle detection (edge deploy)  
-- `longtail-detection` — imbalanced-object-detection research + training code  
-- `fullstack-portfolio` — React + Node.js portfolio & deployment scripts
-
 ---
 
 ## 📄 Certifications
@@ -69,7 +64,7 @@ I am an aspiring **AI & Machine Learning Engineer** with strong expertise in **C
 
 ---
 
-## Let's Connect!
+## 🌱Let's Connect!
 - I love collaborating on GenAI products, multi-agent systems, LLM engineering, cloud AI pipelines, and end-to-end AI platforms.
 - 📧 anduripraveenkumarreddy@gmail.com
 - 🔗 https://www.linkedin.com/in/anduri-praveen-reddy-b93a96279
