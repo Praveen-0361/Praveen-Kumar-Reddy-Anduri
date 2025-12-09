@@ -69,6 +69,6 @@ I build full-stack web apps and deploy ML/vision models to edge & cloud. I enjoy
 - I love collaborating on GenAI products, multi-agent systems, LLM engineering, cloud AI pipelines, and end-to-end AI platforms.
 - 📧 anduripraveenkumarreddy@gmail.com
 - 🔗 https://www.linkedin.com/in/anduri-praveen-reddy-b93a96279
-- 📞 7330802961. contentReference[oaicite:8]{index=9}
+- 📞 7330802961. 
   
 
