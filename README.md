@@ -51,21 +51,21 @@ I am an aspiring **AI & Machine Learning Engineer** with strong expertise in **C
 ---
 
 ## 📄 Certifications
-- AWS Certified Cloud Practitioner  
-- Microsoft PL-100 Power Platform App Maker  
-- Programming Foundations with JavaScript, HTML & CSS  
-- HackerRank: Python & C Certificates.
+- **AWS Certified Cloud Practitioner**  
+- **Microsoft PL-100 Power Platform App Maker**  
+- **Programming Foundations with JavaScript, HTML & CSS**  
+- **HackerRank: Python & C Certificates**.
 
 ---
 
 ## 🎓Education 
-- Vellore Insttitute of Technology - B.Tech Speciliization in Information Security
+**Vellore Insttitute of Technology - B.Tech Speciliization in Information Security**
 - 📍 Vellore, Tamil Nadu | Sep 2021 - June 2025.
 
 ---
 
 ## 🌱Let's Connect!
-- I love collaborating on GenAI products, multi-agent systems, LLM engineering, cloud AI pipelines, and end-to-end AI platforms.
+**I love collaborating on GenAI products, multi-agent systems, LLM engineering, cloud AI pipelines, and end-to-end AI platforms**.
 - 📧 anduripraveenkumarreddy@gmail.com
 - 🔗 https://www.linkedin.com/in/anduri-praveen-reddy-b93a96279
 - 📞 7330802961. 
