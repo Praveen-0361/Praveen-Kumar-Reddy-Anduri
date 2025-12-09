@@ -59,16 +59,16 @@ I build full-stack web apps and deploy ML/vision models to edge & cloud. I enjoy
 
 ---
 
-## 🚀 How to run / demo (example)
-```bash
-# clone project
-git clone https://github.com/<your-username>/agv-vision-stack.git
-cd agv-vision-stack
+## 🎓Education 
+- Vellore Insttitute of Technology - B.Tech Speciliization in Information Security
+- 📍 Vellore, Tamil Nadu | Sep 2021 - June 2025. :contentReference[oaicite:8]{index=8}
 
-# create venv & install
-python -m venv venv
-source venv/bin/activate
-pip install -r requirements.txt
+---
 
-# run demo (example)
-python app.py --config configs/demo.yaml
+## Let's Connect!
+- I love collaborating on GenAI products, multi-agent systems, LLM engineering, cloud AI pipelines, and end-to-end AI platforms.
+- 📧 anduripraveenkumarreddy@gmail.com
+- 🔗 https://www.linkedin.com/in/anduri-praveen-reddy-b93a96279
+- 📞 7330802961. contentReference[oaicite:8]{index=9}
+  
+
